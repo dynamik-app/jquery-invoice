@@ -3,6 +3,7 @@ jQuery Plugin for editable and dynamic Invoice with calculation.
 
 # Requirement
 <a href="https://jquery.com/">jQuery</a> version >= 1.12.4
+select2
 
 # Usage
     jQuery().invoice({
